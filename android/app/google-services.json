@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "237893749545",
+    "project_id": "travelfreak-playstore",
+    "storage_bucket": "travelfreak-playstore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237893749545:android:9b26aec71671121d1bc538",
+        "android_client_info": {
+          "package_name": "com.sagnikm.travelfreak_playstore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl9RH2TaZHsqInVXXAisBMhNsjSz_JcwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
